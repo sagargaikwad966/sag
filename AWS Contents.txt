@@ -1,0 +1,27 @@
+COMPUTE
+	EC2
+	Elastic Beanstalk
+
+
+STORAGE
+	s3
+	Glacier
+
+
+DATABASE
+	RDS
+	DynamoDB
+
+	
+NETWORK
+	VPC
+	CloudFront
+	Route 53
+
+
+MANAGEMENT
+	CloudWatch
+
+
+SECURITY
+	IAM
